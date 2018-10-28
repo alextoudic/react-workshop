@@ -16,3 +16,6 @@ Examples of React API implementations, trying to cover concepts from basics to a
 - HOC: Higher Order Components
 - Context API
 - contextType usage
+- code splitting with lazy and suspense
+- Pure components
+- Memo
