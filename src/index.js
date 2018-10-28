@@ -19,5 +19,8 @@ import App from './component/App'
 // import App from './hoc-advanced/App'
 // import App from './context-api/App'
 // import App from './context-type/App'
+// import App from './code-splitting/App'
+// import App from './purecomponent/App'
+// import App from './memo/App'
 
 ReactDOM.render(<App />, document.getElementById('root'))
