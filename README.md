@@ -19,3 +19,25 @@ Examples of React API implementations, trying to cover concepts from basics to a
 - code splitting with lazy and suspense
 - Pure components
 - Memo
+
+## Getting Started
+
+Install using yarn preferably
+```
+  yarn
+```
+Or npm
+```
+  npm i
+```
+
+## Run in dev mode
+
+```
+  yarn start
+```
+Or
+```
+  npm start
+```
+
